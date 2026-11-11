@@ -1,0 +1,10 @@
+[
+  {"id": 1, "nome": "Salada de Grão-de-Bico", "categoria": "salada", "preco": 22.90, "restricoes": ["vegano", "sem_lactose"], "descricao": "Grão-de-bico, tomate, pepino e limão"},
+  {"id": 2, "nome": "Bowl de Frango Grelhado", "categoria": "bowl", "preco": 29.90, "restricoes": ["sem_gluten"], "descricao": "Frango, arroz integral e legumes"},
+  {"id": 3, "nome": "Hambúrguer Artesanal", "categoria": "lanche", "preco": 34.90, "restricoes": [], "descricao": "Blend 180g, queijo cheddar e maionese da casa"},
+  {"id": 4, "nome": "Pizza Margherita", "categoria": "pizza", "preco": 39.90, "restricoes": ["vegetariano"], "descricao": "Molho de tomate, muçarela e manjericão"},
+  {"id": 5, "nome": "Yakisoba de Legumes", "categoria": "massa", "preco": 26.90, "restricoes": ["vegetariano", "sem_lactose"], "descricao": "Macarrão, brócolis, cenoura e shoyu"},
+  {"id": 6, "nome": "Prato Feito Tradicional", "categoria": "brasileira", "preco": 24.90, "restricoes": ["sem_lactose"], "descricao": "Arroz, feijão, bife acebolado e salada"},
+  {"id": 7, "nome": "Açaí 500ml", "categoria": "sobremesa", "preco": 18.90, "restricoes": ["vegano", "sem_gluten"], "descricao": "Açaí com banana e granola"},
+  {"id": 8, "nome": "Wrap de Falafel", "categoria": "lanche", "preco": 27.90, "restricoes": ["vegano"], "descricao": "Falafel, homus e salada no pão folha"}
+]
